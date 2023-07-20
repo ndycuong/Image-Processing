@@ -10,8 +10,13 @@
   4. WEEK 4  : Fourier transform => high-pass and low-pass Gausian filters
   5. WEEK 5  : Image sharpening => Sobel, Laplace
 
-Additionally, there are some bonus exercises in class: Detect row and column from given chessboard images   
+Additionally, there are some bonus exercises in class: 
+
+1.Detect row and column from given chessboard images   
 => Using line hough transform / detect contour
+
+2.Character detection: split string to character from given image
+=> Using Unsharp filter for creating clear space boundaries between characters, them find contours and split character
 
 
 
